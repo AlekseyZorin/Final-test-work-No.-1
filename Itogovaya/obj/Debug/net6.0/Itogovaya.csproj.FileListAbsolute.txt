@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\bin\Debug\net6.0\Itogovaya.exe
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\bin\Debug\net6.0\Itogovaya.deps.json
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\bin\Debug\net6.0\Itogovaya.runtimeconfig.json
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\bin\Debug\net6.0\Itogovaya.dll
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\bin\Debug\net6.0\Itogovaya.pdb
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.dll
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\refint\Itogovaya.dll
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.pdb
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\Itogovaya.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\ITOG1\Itogovaya\obj\Debug\net6.0\ref\Itogovaya.dll
